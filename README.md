@@ -2,6 +2,8 @@
 
 I'm Robert, an undergraduate student at UCLA completing my Bachelor of Science in Computer Science, class of '28.
 
+Currently building FlagCheck Analytics -- a stats and analytics web app that allows for player and team stats entry, playbook building, scouting reports, and most importantly, ability to research, analyze, and make conclusions about the quickly evolving and growing game of high school and collegiate flag football.  
+
 I like staying open and versatile in the field, but lately I've been learning and using more data-focused tools, such as:
 
 - Python
