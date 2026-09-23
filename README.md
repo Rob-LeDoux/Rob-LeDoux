@@ -18,7 +18,7 @@ I also have experience with:
 - React.js, HTML, CSS
 - MATLAB
 
-Looking to break into sports tech, but I'm open to any opportunities.
+Looking to break into sports tech, but open to any opportunities.
 <!--
 **Rob-LeDoux/Rob-LeDoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
