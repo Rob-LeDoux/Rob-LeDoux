@@ -1,16 +1,22 @@
 ## Hello!
 
-I'm Robert, and I am currently an undergraduate student at UCLA\n
-completing my Bachelors of Science in Computer Science, class of '28.
+I'm Robert, an undergraduate at UCLA completing my Bachelor of Science in Computer Science, class of '28.
 
-I enjoy staying open and versatile in the field, but as of recent, I have been learning and utilizing
-more data focused tools such as:\n
-Python, SQL, NumPy, Pandas, and Postgres. 
+I like staying open and versatile in the field, but lately I've been learning and using more data-focused tools, such as:
 
-Regardless, I have also had experience in:\n
-C++, Javascript, React.js, Java, MATLAB, CSS, HTML.
+- Python
+- SQL
+- NumPy
+- Pandas
+- PostgreSQL
 
-Looking to break into Sports Tech, but open to any opportunities. 
+I also have experience with:
+
+- C++, Java, JavaScript
+- React.js, HTML, CSS
+- MATLAB
+
+I'm looking to break into sports tech, but I'm open to any opportunities.
 <!--
 **Rob-LeDoux/Rob-LeDoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
