@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Robert, an undergraduate at UCLA completing my Bachelor of Science in Computer Science, class of '28.
+I'm Robert, an undergraduate student at UCLA completing my Bachelor of Science in Computer Science, class of '28.
 
 I like staying open and versatile in the field, but lately I've been learning and using more data-focused tools, such as:
 
@@ -16,7 +16,7 @@ I also have experience with:
 - React.js, HTML, CSS
 - MATLAB
 
-I'm looking to break into sports tech, but I'm open to any opportunities.
+Looking to break into sports tech, but I'm open to any opportunities.
 <!--
 **Rob-LeDoux/Rob-LeDoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
